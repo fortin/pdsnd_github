@@ -7,7 +7,7 @@
 
 import time
 import pandas as pd
-import numpy as np
+import numpy as np # TODO: remove numpy as it's not used
 import getch
 import calendar
 import plotly
@@ -324,7 +324,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         type_stats(df)
-        if city != 'washington':
+        if city != 'washington': # TODO: change to exception handling
             user_stats(df)
             graphs(df)
         else:
