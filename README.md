@@ -1,12 +1,13 @@
 ### Date created: 2018-11-16
 
-### Bikeshare Data Analysis
+### Bikeshare Data Analyzer
 
 ### Description
 
-A Python utility that analyzes data on bikesharing programs in Chicago, New York City, and Washington D.C., allowing users to filter data in various ways, and generate visualizations of subsets of the data.
+A Python utility that analyzes data on bikesharing programs in Chicago, New York City, and Washington D.C., allowing users to filter data in various ways and generate visualizations of subsets of the data.
 
 ### Files used
+
 bikeshare_2.py
 chicago.csv
 new_york_city.csv
@@ -16,7 +17,7 @@ LICENSE
 requirements.txt
 .gitignore
 
-Note that, due to their large size, the CSV files are not included in this repo.
+Note that, due to their large size, the CSV files are not included in this repo. The most up-to-date data files are available for download [here](https://s3.amazonaws.com/capitalbikeshare-data/index.html).
 
 ### Credits
 
