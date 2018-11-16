@@ -8,13 +8,13 @@ A Python utility that analyzes data on bikesharing programs in Chicago, New York
 
 ### Files used
 
-bikeshare_2.py
-chicago.csv
-new_york_city.csv
-washington.csv
-README.md
-LICENSE
-requirements.txt
+bikeshare_2.py <br />
+chicago.csv <br />
+new_york_city.csv <br />
+washington.csv <br />
+README.md <br />
+LICENSE <br />
+requirements.txt <br />
 .gitignore
 
 Note that, due to their large size, the CSV files are not included in this repo. The most up-to-date data files are available for download [here](https://s3.amazonaws.com/capitalbikeshare-data/index.html).
